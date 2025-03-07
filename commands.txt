@@ -10,3 +10,4 @@ git switch
 git push
 git pull
 git show
+git log
