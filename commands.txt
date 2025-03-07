@@ -11,3 +11,6 @@ git push
 git pull
 git show
 git log
+
+What is a GUI for Git?
+DESCRIPTION. A Tcl/Tk based graphical user interface to Git. git gui focuses on allowing users to make changes to their repository by making new commits, amending existing ones, creating branches, performing local merges, and fetching/pushing to remote repositories.
